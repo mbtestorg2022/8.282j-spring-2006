@@ -4,26 +4,386 @@ title: Assignments
 uid: 69a7416e-f890-2958-1833-5072202dfe0a
 ---
 
-| ASSIGNMENT | TOPICS | ASSIGNMENT fILES |
-| --- | --- | --- |
-| 1 | Aristarchus' Method of Determining the Distance to the Moon  {{< br >}}  {{< br >}}Aristarchus' Method of Determining the Distance to the Sun  {{< br >}}  {{< br >}}Accuracy of Parallax Measurements of Stars  {{< br >}}  {{< br >}}Distances to the Four Closest Stars  {{< br >}}  {{< br >}}Practice with Angles  {{< br >}}  {{< br >}}Solar Power  {{< br >}}  {{< br >}}Power Output | ([PDF]({{< baseurl >}}/resources/ps1)) |
-| 2 | Copernicus' Method of Finding the Distance to an Inferior Planet  {{< br >}}  {{< br >}}Copernicus' Method of Finding the Distance to a Superior Planet  {{< br >}}  {{< br >}}Mass of Jupiter  {{< br >}}  {{< br >}}Black Hole at the Center of our Galaxy  {{< br >}}  {{< br >}}Geosynchronous Satellite  {{< br >}}  {{< br >}}Dynamical Timescale of the Earth | ([PDF]({{< baseurl >}}/resources/ps2)) |
-| 3 | Eccentric Orbits  {{< br >}}  {{< br >}}Doppler Effect  {{< br >}}  {{< br >}}Determination of the AU from Doppler Shifts  {{< br >}}  {{< br >}}Determining the Mass of a Neutron Star  {{< br >}}  {{< br >}}Planetary Orbital Periods  {{< br >}}  {{< br >}}Refraction  {{< br >}}  {{< br >}}Optics Problem | ([PDF]({{< baseurl >}}/resources/ps3)) |
-| 4 | Short Problems on the Sensitivity and Angular Resolution of Telescopes  {{< br >}}  {{< br >}}Three-Slit Diffraction Problem  {{< br >}}  {{< br >}}Divergence of a Laser Beam  {{< br >}}  {{< br >}}X-Ray Mirror  {{< br >}}  {{< br >}}Semiclassical Derivation of the Energy Levels of the Hydrogen Atom  {{< br >}}  {{< br >}}Short Optics Problems  {{< br >}}  {{< br >}}Snell's Law Derived from Fermat's Principle | ([PDF]({{< baseurl >}}/resources/ps4)) |
-| 5 | Derivation of the Stefan-Boltzmann and Wien Radiation Laws  {{< br >}}  {{< br >}}Short Answer Questions on Magnitudes  {{< br >}}  {{< br >}}Moving Cluster Method - The Hyades Cluster  {{< br >}}  {{< br >}}Binary Orbit 1, 2, 3, and 4 | ([PDF]({{< baseurl >}}/resources/ps5)) |
-| 6 | Magnitudes  {{< br >}}  {{< br >}}Planck Distribution  {{< br >}}  {{< br >}}The Visual and Spectroscopic Binary Sirius A and B  {{< br >}}  {{< br >}}Short Binary Problems from Zeilik and Gregory  {{< br >}}  {{< br >}}Short Questions on Spectral Types  {{< br >}}  {{< br >}}Eclipsing Binary  {{< br >}}  {{< br >}}Binary Radio Pulsar | ([PDF]({{< baseurl >}}/resources/ps6)) |
-| 7 | Spectroscopic Parallax  {{< br >}}  {{< br >}}Orbiting Globular Cluster  {{< br >}}  {{< br >}}Spherical, Uniform-Density Model of the Galaxy  {{< br >}}  {{< br >}}Model Galactic Rotation Curve  {{< br >}}  {{< br >}}Absorption in the Galactic Plane  {{< br >}}  {{< br >}}Rotation Curve | ([PDF]({{< baseurl >}}/resources/ps7)) |
-| 8 | Constructing the Galactic Rotation Curve  {{< br >}}  {{< br >}}Oort Constants  {{< br >}}  {{< br >}}Kinematic Distances  {{< br >}}  {{< br >}}Simplified Model of a Star  {{< br >}}  {{< br >}}Fueling the Sun  {{< br >}}  {{< br >}}Main-Sequence Lifetimes  {{< br >}}  {{< br >}}Nuclear Binding Energies | ([PDF]({{< baseurl >}}/resources/ps8)) |
-| 9 | Dimensional Analysis of Equations of Stellar Structure  {{< br >}}  {{< br >}}Spectroscopic Parallax for a Globular Cluster  {{< br >}}  {{< br >}}Ascending the Giant Branch  {{< br >}}  {{< br >}}Mean Density of Collapsed Stars  {{< br >}}  {{< br >}}Cooling White Dwarf  {{< br >}}  {{< br >}}Maximum Rotation Rate for a Pulsar  {{< br >}}  {{< br >}}Pulsar Spin-Down  {{< br >}}  {{< br >}}Blackbody Radiation from a Neutron Star | ([PDF]({{< baseurl >}}/resources/ps9)) |
-| 10 | Collapsing White Dwarf  {{< br >}}  {{< br >}}Maximum Distances for Applying Standard Candles  {{< br >}}  {{< br >}}Distance to a Nova  {{< br >}}  {{< br >}}Optical Luminosity of a Supernova at Maximum  {{< br >}}  {{< br >}}Cepheid Variables as Distance Indicators  {{< br >}}  {{< br >}}Variations in the Radius of Cepheid Variables | ([PDF]({{< baseurl >}}/resources/ps10)) |
-| 11 | X-Ray Burst Source  {{< br >}}  {{< br >}}Accretion Powered X-Ray Source  {{< br >}}  {{< br >}}Interstellar Extinction  {{< br >}}  {{< br >}}21-cm Hydrogen Radiation  {{< br >}}  {{< br >}}Distance to a Dark Cloud  {{< br >}}  {{< br >}}Short Problems  {{< br >}}  {{< br >}}Short Problems  {{< br >}}  {{< br >}}Planetary Nebula | ([PDF]({{< baseurl >}}/resources/ps11)) |
-| 12 | Orbiting Galaxies  {{< br >}}  {{< br >}}Distance Determinations  {{< br >}}  {{< br >}}Galaxy Redshift from the Ca II K Line  {{< br >}}  {{< br >}}Measuring a Quasar Redshift  {{< br >}}  {{< br >}}Identifying the Lines and Determining the Redshift of a Quasar  {{< br >}}  {{< br >}}A Simple Determination of the Hubble Law  {{< br >}}  {{< br >}}Free-Fall Time for a Cluster of Galaxies  {{< br >}}  {{< br >}}Luminosity Function of Galaxies in Rich Clusters | ([PDF]({{< baseurl >}}/resources/ps12)) |
-| 13 | Relativistic Doppler Effect  {{< br >}}  {{< br >}}Cygnus A Radio Galaxy  {{< br >}}  {{< br >}}Feeding a Black Hole  {{< br >}}  {{< br >}}Distance-Redshift Relation  {{< br >}}  {{< br >}}H0, _τ_0, and _ρ_crit  {{< br >}}  {{< br >}}Expanding Balloon Analogy  {{< br >}}  {{< br >}}Scale Factor and Age vs. Redshift  {{< br >}}  {{< br >}}Dust in the Universe | ([PDF]({{< baseurl >}}/resources/ps13)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENT
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT fILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Aristarchus' Method of Determining the Distance to the Moon  
+  
+Aristarchus' Method of Determining the Distance to the Sun  
+  
+Accuracy of Parallax Measurements of Stars  
+  
+Distances to the Four Closest Stars  
+  
+Practice with Angles  
+  
+Solar Power  
+  
+Power Output
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Copernicus' Method of Finding the Distance to an Inferior Planet  
+  
+Copernicus' Method of Finding the Distance to a Superior Planet  
+  
+Mass of Jupiter  
+  
+Black Hole at the Center of our Galaxy  
+  
+Geosynchronous Satellite  
+  
+Dynamical Timescale of the Earth
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Eccentric Orbits  
+  
+Doppler Effect  
+  
+Determination of the AU from Doppler Shifts  
+  
+Determining the Mass of a Neutron Star  
+  
+Planetary Orbital Periods  
+  
+Refraction  
+  
+Optics Problem
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Short Problems on the Sensitivity and Angular Resolution of Telescopes  
+  
+Three-Slit Diffraction Problem  
+  
+Divergence of a Laser Beam  
+  
+X-Ray Mirror  
+  
+Semiclassical Derivation of the Energy Levels of the Hydrogen Atom  
+  
+Short Optics Problems  
+  
+Snell's Law Derived from Fermat's Principle
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Derivation of the Stefan-Boltzmann and Wien Radiation Laws  
+  
+Short Answer Questions on Magnitudes  
+  
+Moving Cluster Method - The Hyades Cluster  
+  
+Binary Orbit 1, 2, 3, and 4
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Magnitudes  
+  
+Planck Distribution  
+  
+The Visual and Spectroscopic Binary Sirius A and B  
+  
+Short Binary Problems from Zeilik and Gregory  
+  
+Short Questions on Spectral Types  
+  
+Eclipsing Binary  
+  
+Binary Radio Pulsar
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Spectroscopic Parallax  
+  
+Orbiting Globular Cluster  
+  
+Spherical, Uniform-Density Model of the Galaxy  
+  
+Model Galactic Rotation Curve  
+  
+Absorption in the Galactic Plane  
+  
+Rotation Curve
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Constructing the Galactic Rotation Curve  
+  
+Oort Constants  
+  
+Kinematic Distances  
+  
+Simplified Model of a Star  
+  
+Fueling the Sun  
+  
+Main-Sequence Lifetimes  
+  
+Nuclear Binding Energies
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Dimensional Analysis of Equations of Stellar Structure  
+  
+Spectroscopic Parallax for a Globular Cluster  
+  
+Ascending the Giant Branch  
+  
+Mean Density of Collapsed Stars  
+  
+Cooling White Dwarf  
+  
+Maximum Rotation Rate for a Pulsar  
+  
+Pulsar Spin-Down  
+  
+Blackbody Radiation from a Neutron Star
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Collapsing White Dwarf  
+  
+Maximum Distances for Applying Standard Candles  
+  
+Distance to a Nova  
+  
+Optical Luminosity of a Supernova at Maximum  
+  
+Cepheid Variables as Distance Indicators  
+  
+Variations in the Radius of Cepheid Variables
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+X-Ray Burst Source  
+  
+Accretion Powered X-Ray Source  
+  
+Interstellar Extinction  
+  
+21-cm Hydrogen Radiation  
+  
+Distance to a Dark Cloud  
+  
+Short Problems  
+  
+Short Problems  
+  
+Planetary Nebula
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Orbiting Galaxies  
+  
+Distance Determinations  
+  
+Galaxy Redshift from the Ca II K Line  
+  
+Measuring a Quasar Redshift  
+  
+Identifying the Lines and Determining the Redshift of a Quasar  
+  
+A Simple Determination of the Hubble Law  
+  
+Free-Fall Time for a Cluster of Galaxies  
+  
+Luminosity Function of Galaxies in Rich Clusters
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Relativistic Doppler Effect  
+  
+Cygnus A Radio Galaxy  
+  
+Feeding a Black Hole  
+  
+Distance-Redshift Relation  
+  
+H0, _τ_0, and _ρ_crit  
+  
+Expanding Balloon Analogy  
+  
+Scale Factor and Age vs. Redshift  
+  
+Dust in the Universe
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps13))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The following computational problem sets are optional. For reference on the Runge-Kutta method of numerical integration, please see [Numerical Recipes in Fortran](http://www.nrbook.com/a/bookfpdf.html), Chapter 16.1.
 
-| OPTIONAL ASSIGNMENT | TOPICS | SOLUTIONS |
-| --- | --- | --- |
-| 1 | The Kepler Problem ([PDF]({{< baseurl >}}/resources/compset1)) | ([PDF - 2.5 MB]({{< baseurl >}}/resources/compset1_soln)) |
-| 2 | Stellar Polytropes ([PDF]({{< baseurl >}}/resources/compset2)) | ([PDF - 1.6 MB]({{< baseurl >}}/resources/compset2_soln)) |
-| 3 | White Dwarf Models ([PDF]({{< baseurl >}}/resources/compset3)) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+OPTIONAL ASSIGNMENT
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Kepler Problem ([PDF]({{< baseurl >}}/resources/compset1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.5 MB]({{< baseurl >}}/resources/compset1_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Stellar Polytropes ([PDF]({{< baseurl >}}/resources/compset2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.6 MB]({{< baseurl >}}/resources/compset2_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+White Dwarf Models ([PDF]({{< baseurl >}}/resources/compset3))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

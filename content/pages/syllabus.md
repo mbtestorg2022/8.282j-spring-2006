@@ -24,11 +24,48 @@ Grading
 
 The course grade will be based on:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Weekly Problem Sets | 20% |
-| Two One-hour Quizzes (20% Each) | 40% |
-| Three-hour Final Exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two One-hour Quizzes (20% Each)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three-hour Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Physics and Math
 -------------------------
@@ -48,32 +85,261 @@ Optional Aspects of the Course
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Course Organization; Introduction |
-| 2 | Greek Astronomy |
-| 3-4 | Astronomy in the Era of Copernicus, Tycho, Kepler, and Galileo; Kepler's Laws of Planetary Motion |
-| 5 | Review of Classical Mechanics; Circular Orbits |
-| 6-7 | Full Kepler Orbit Problem |
-| 8 | Introduction to Electromagnetic Waves; Doppler Effect |
-| 9-10 | Reflection, Refraction, and Optics |
-| 11-12 | Optical, Radio, and X-Ray Telescopes |
-| 13-14 | Distances and Magnitudes |
-| 15 | Binary Systems |
-| 16-17 | Hertzsprung-Russell Diagrams |
-| 18 | Initial Mass Function; Olbert's Paradox; Galaxy Rotation Curves |
-| 19-20 | Measuring the Size and Rotation Curve of the Milky Way |
-| 21 | Hydrostatic Equilibrium |
-| 22-23 | Stellar Structure and Evolution |
-| 24 | Nuclear Reactions in Stars |
-| 25 | Star Formation; Virial Theorem |
-| 26 | Fermi Pressure, White Dwarf Stars, and the Chandrasekhar Limit |
-| 27-28 | Neutron Stars, Supernovae, and Black Holes |
-| 29 | Cepheid Variables; Mass Transfer Binaries |
-| 30-31 | Interstellar Medium |
-| 32 | HII Regions; Galaxy Types |
-| 33 | Masses of Galaxies and Galaxy Clusters; Distance Ladder |
-| 34 | Age and Large Scale Structure of the Universe; Intergalactic Medium |
-| 35 | Active Galactic Nuclei |
-| 36 | Newtonian Cosmology |
-| 37 | Thermal History of the Universe
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Organization; Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Greek Astronomy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Astronomy in the Era of Copernicus, Tycho, Kepler, and Galileo; Kepler's Laws of Planetary Motion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Classical Mechanics; Circular Orbits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Full Kepler Orbit Problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Electromagnetic Waves; Doppler Effect
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection, Refraction, and Optics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Optical, Radio, and X-Ray Telescopes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Distances and Magnitudes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Binary Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-17
+{{< tdclose >}}
+{{< tdopen >}}
+Hertzsprung-Russell Diagrams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Initial Mass Function; Olbert's Paradox; Galaxy Rotation Curves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-20
+{{< tdclose >}}
+{{< tdopen >}}
+Measuring the Size and Rotation Curve of the Milky Way
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrostatic Equilibrium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-23
+{{< tdclose >}}
+{{< tdopen >}}
+Stellar Structure and Evolution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Reactions in Stars
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Star Formation; Virial Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Fermi Pressure, White Dwarf Stars, and the Chandrasekhar Limit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27-28
+{{< tdclose >}}
+{{< tdopen >}}
+Neutron Stars, Supernovae, and Black Holes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Cepheid Variables; Mass Transfer Binaries
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30-31
+{{< tdclose >}}
+{{< tdopen >}}
+Interstellar Medium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+HII Regions; Galaxy Types
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Masses of Galaxies and Galaxy Clusters; Distance Ladder
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Age and Large Scale Structure of the Universe; Intergalactic Medium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Active Galactic Nuclei
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Newtonian Cosmology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal History of the Universe
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
