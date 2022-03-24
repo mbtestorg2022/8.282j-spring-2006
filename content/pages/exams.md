@@ -22,9 +22,9 @@ EXAMS AND SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-2000 Quiz with Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1_00_soln))  
+2000 Quiz with Solutions ([PDF]({{< baseurl >}}/resources/q1_00_soln))  
   
-2003 Quiz with Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1_03_soln))  
+2003 Quiz with Solutions ([PDF]({{< baseurl >}}/resources/q1_03_soln))  
   
 2005 Quiz ([PDF]({{< baseurl >}}/resources/q1_05))  
   
@@ -56,7 +56,7 @@ EXAMS AND SOLUTIONS
 Final Exam
 {{< tdclose >}}
 {{< tdopen >}}
-2002 Final Exam with Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/final_02_soln))  
+2002 Final Exam with Solutions ([PDF]({{< baseurl >}}/resources/final_02_soln))  
   
 2005 Final Exam ([PDF]({{< baseurl >}}/resources/final_05))
 {{< tdclose >}}
