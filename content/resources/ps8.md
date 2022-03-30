@@ -5,6 +5,7 @@ description: This file contains problems based on constructing the galactic rota
   the sun, main-sequence lifetimes, nuclear binding energies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-282j-introduction-to-astronomy-spring-2006/bc0a3b70f74b210303c84e5ea3d535c2_ps8.pdf
 file_type: application/pdf
+parent_uid: 69a7416e-f890-2958-1833-5072202dfe0a
 resourcetype: Document
 title: ps8.pdf
 uid: bc0a3b70-f74b-2103-03c8-4e5ea3d535c2

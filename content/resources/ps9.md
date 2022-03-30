@@ -6,6 +6,7 @@ description: This file contains problems based on dimensional analysis of equati
   rate for a pulsar, pulsar spin-down and blackbody radiation from a neutron star.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-282j-introduction-to-astronomy-spring-2006/6160efb985b5899420da023d6177f725_ps9.pdf
 file_type: application/pdf
+parent_uid: 69a7416e-f890-2958-1833-5072202dfe0a
 resourcetype: Document
 title: ps9.pdf
 uid: 6160efb9-85b5-8994-20da-023d6177f725

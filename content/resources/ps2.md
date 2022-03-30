@@ -6,6 +6,7 @@ description: This file contains problems based on Copernicus? method of finding 
   satellite and dynamical timescale of the earth.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-282j-introduction-to-astronomy-spring-2006/ff556f5b15461c985c0c537ce51ebdef_ps2.pdf
 file_type: application/pdf
+parent_uid: 69a7416e-f890-2958-1833-5072202dfe0a
 resourcetype: Document
 title: ps2.pdf
 uid: ff556f5b-1546-1c98-5c0c-537ce51ebdef

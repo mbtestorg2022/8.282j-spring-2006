@@ -6,6 +6,7 @@ description: This file contains problems based on magnitudes, planck distributio
   pulsar.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-282j-introduction-to-astronomy-spring-2006/dd75ee9c328c56def95c7ea794170ec5_ps6.pdf
 file_type: application/pdf
+parent_uid: 69a7416e-f890-2958-1833-5072202dfe0a
 resourcetype: Document
 title: ps6.pdf
 uid: dd75ee9c-328c-56de-f95c-7ea794170ec5
